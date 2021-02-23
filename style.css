@@ -1,0 +1,127 @@
+a{
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5vw;
+  color: #A6CFD5;
+  background-color: #3A2E39;
+  border-radius: 20px;
+  padding: 15px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #A6CFD5;
+  box-sizing: border-box;
+}
+a:hover{
+  background-color: #1E555C;
+}
+#menu{
+  text-align: right;
+  display: inline-block;
+  width: 93vw;
+  margin: 40px;
+  margin-right: 20px;
+  position: fixed;
+  z-index: 100;
+}
+
+
+#homeBg{
+  background-image: url("Beauty+Recovery+Room+010_23+years+old_Seoul+South+Korea_2011.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: fixed;
+}
+
+h1{
+  display: inline-block;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 10vw;
+  margin: 0px;
+  color: #3A2E39;
+  line-height: 1;
+  letter-spacing: 4px;
+  text-shadow: 10px 10px #FFD60A;
+}
+
+h2{
+  margin: 0px;
+  font-family: 'Montserrat', sans-serif;
+  color: #3A2E39;
+}
+
+#subTitle{
+  display: inline-block;
+  font-size: 1.8vw;
+  text-align: right;
+  margin: 15px;
+}
+#header{
+  width: 82vw;
+  left: 9vw;
+  top: 18vw;
+  position: relative;
+  margin: 0 auto;
+}
+
+body{
+  background-color: #3A2E39;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.blog-header{
+  text-align: center;
+  line-height: 3;
+  display: inline-block;
+  margin-top: 150px;
+  background-color: #F15152;
+  width: 98.7vw;
+}
+
+#content{
+  margin: 0 auto;
+  top: 80px;
+  position: relative;
+  width: 70vw;
+}
+
+h3{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 9vw;
+  color: #FFD60A;
+  margin:0;
+}
+.history-dates{
+  display:inline-block;
+  width: 23vw;
+  text-align: center;
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2vw;
+  color: #A6CFD5;
+}
+.history-text{
+  display:inline-block;
+  width: 23vw;
+}
+
+.history-block{
+  margin-top: 200px;
+  margin-bottom: 100px;
+}
+
+div img{
+  width: 18vw;
+  margin: 5vw;
+  position: absolute;
+  display:inline-block;
+}
+
+
+.problem-block{
+  margin-top: 200px;
+  margin-bottom: 200px;
+}

@@ -1,0 +1,23 @@
+a{
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5vw;
+  color: #A6CFD5;
+  background-color: #3A2E39;
+  border-radius: 20px;
+  padding: 15px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #A6CFD5;
+  box-sizing: border-box;
+}
+a:hover{
+  background-color: #1E555C;
+}
+#menu{
+  text-align: right;
+  display: inline-block;
+  width: 93vw;
+  margin: 40px;
+  margin-right: 20px;
+}
